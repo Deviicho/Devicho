@@ -1,0 +1,98 @@
+body{
+    background-color: rgb(66, 83, 98);
+
+}
+#top-bar{
+    top: 0px;
+    height: 90px;
+    width: auto;
+    border-style: ridge;
+    border-color: black;
+    background-color: rgba(0, 102, 245, 0.861);
+    position: sticky;
+}
+img{
+    
+    height: 100px;
+    width: 200px;
+}
+#PP{
+    height: auto;
+}
+  
+
+#Devicho:hover{
+    color: aliceblue;
+}
+#instagram{
+    height: 25px;
+    width: 25px;
+}
+#instagram:hover{
+    height: 30px;
+    width: 30px;
+}
+#gmail{
+    height: 25px;
+    width: 25px;
+}
+#gmail:hover{
+    height: 30px;
+    width: 30px;
+}
+#github{
+    height: 25px;
+    width: 25px;
+}
+#github:hover{
+    height: 30px;
+    width: 30px;
+}
+#whatsapp{
+    height: 25px;
+    width: 25px;
+}
+#whatsapp:hover{
+    height: 30px;
+    width: 30px;
+}
+#python{
+    height: 25px;
+    width: 25px;
+}
+#python:hover{
+    height: 30px;
+    width: 30px;
+}
+#html{
+    height: 25px;
+    width: 25px;
+}
+#html:hover{
+    height: 30px;
+    width: 30px;
+}
+#css{
+    height: 25px;
+    width: 25px;
+}
+#css:hover{
+    height: 30px;
+    width: 30px;
+}
+#about-me{
+    display: inline;
+    font-style: italic ;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+}
+#about-me:hover{
+    background-color: chartreuse;
+}
+
+.description{
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+
+#contact-me{
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+}
